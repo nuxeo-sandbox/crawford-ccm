@@ -1,0 +1,9 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: org.nuxeo.ecm.rendering.ccm
+Bundle-Version: 1.0.0
+Bundle-Name: crawford-ccm-core
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.nuxeo.ecm.rendering.ccm.crawford-ccm-core;singleton=true
+Nuxeo-Component: OSGI-INF/crawfordview-operation-contrib.xml
